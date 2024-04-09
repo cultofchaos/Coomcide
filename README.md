@@ -18,4 +18,4 @@ $ ./key
 ```
 
 ## License
-License [MIT](LICENSE)
+License [BSD 3-Clause](LICENSE)
